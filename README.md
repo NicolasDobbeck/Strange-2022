@@ -1,10 +1,9 @@
 # Doctor Strange-2022
 Projeto construido durante as aula de LIMA no curso de Desinvolvimento de Sistemas do [SENAI Jndira](https://jandira.sp.senai.br/), com orientação do professor [Fernado Leonid](https://github.com/fernandoleonid)
 
-![](./img/web.png)
+<img src="./img/Web.png" width="450px">
 
-<img src="./img/mobile.png" width="200px">
-<img src="./img/menu.png" width="200px">
+<img src="./img/mobile.png" width="200px"> <img src="./img/menu.png" width="200px">
 
 ---
 ## Qual era o objetivo do projeto?
